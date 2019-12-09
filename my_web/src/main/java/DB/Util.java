@@ -9,7 +9,7 @@ import java.sql.Statement;
 
 public class Util {
     public static final String DB_USERNAME = "root";
-    public static final String DB_PASSWORD = "Vatrushka7!@&";
+    public static final String DB_PASSWORD = "********";
     public static final String DB_URL = "jdbc:mysql://localhost:3306/Users?serverTimezone=Europe/Moscow&useSSL=false";
     public static final String DB_DRIVER = "com.mysql.cj.jdbc.Driver";
 
